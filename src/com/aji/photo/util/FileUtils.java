@@ -12,11 +12,11 @@ import com.qiniu.api.rs.RSClient;
 
 public class FileUtils
 {
-	// √‹‘ø
-	private static final String ACCESS_KEY = "Qckf5W6x5634BeCj24i63LSFA-yhpguU5_WQT93Y"; 
-    private static final String SECRET_KEY = "UfPihCg5LRQhlQinToCp2f9IpbZteXfcFVe26gY-";
+	// ∆ﬂ≈£√‹‘ø
+	private static final String ACCESS_KEY = ""; 
+    private static final String SECRET_KEY = "";
     // Bucket √˚◊÷
-    private static final String BUCKET_NAME = "ajiphoto";
+    private static final String BUCKET_NAME = "";
 
     /**
      * …œ¥´Õº∆¨µΩ∆ﬂ≈£‘∆¥Ê¥¢
